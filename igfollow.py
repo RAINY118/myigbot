@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import tqdm
-class Insta:
+class Insta123456:
     def __init__(self, username, password):
         self.username = username
         self.password = password
